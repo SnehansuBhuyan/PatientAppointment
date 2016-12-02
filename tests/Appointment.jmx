@@ -152,7 +152,7 @@
               <idleTime>true</idleTime>
             </value>
           </objProp>
-          <stringProp name="filename">C:\Users\miracle\Desktop\papajohns\tests\Appointment.jtl</stringProp>
+          <stringProp name="filename">../target/jmeter/results/Appointment.jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
